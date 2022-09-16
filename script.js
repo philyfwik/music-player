@@ -9,24 +9,24 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs  = [
   {
-    name: 'jacinto-1',
-    displayName: 'Electric Chill Machine',
-    artist: 'Jacinto Design',
+    name: 'JustinBieber',
+    displayName: 'Beautiful Love (Free Fire)',
+    artist: 'Justin Bieber',
   },
   {
-    name: 'jacinto-2',
-    displayName: 'Seven Nation Army (remix)',
-    artist: 'Jacinto Design',
+    name: 'Annatoria',
+    displayName: 'Stay With Me',
+    artist: 'Annatoria',
   },
   {
-    name: 'jacinto-2',
-    displayName: 'Goodnight, Disco Queen',
-    artist: 'Jacinto Design',
+    name: 'Wani',
+    displayName: 'Raining',
+    artist: 'WANI',
   },
   {
-    name: 'metric-1',
-    displayName: 'Front Row (remix)',
-    artist: 'Metric Design',
+    name: 'TiwaSavage',
+    displayName: 'If I Start To Talk',
+    artist: 'Tiwa Savage ft. Dr. Sid',
   }
 ];
 
